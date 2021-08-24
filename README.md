@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pavkop
-- 👀 I’m interested in learning Python, and definitely looking for more in the future, currently looking at c# or js.
+- 👀 I’m interested in learning Python, and definitely looking for more in the future, currently thinking about c# or js.
 - 🌱 I’m currently learning Python (and Pascal, unfortunately.)
 
 <!---
